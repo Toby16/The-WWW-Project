@@ -27,8 +27,7 @@
 ## Conclusion
 <p>The first HTML website is a piece of internet history that has stood the test of time.</p>
 <p>By cloning this website, i am preserving a piece of our collective cultural heritage and making it accessible to anyone who is interested in learning about the origins of the internet.</p>
-<p>I hope that this website will inspire others to explore the history of the internet and to appreciate the amazing technological advances that have been made over the past few decades.</p>i
+<p>I hope that this website will inspire others to explore the history of the internet and to appreciate the amazing technological advances that have been made over the past few decades.</p>
 <hr>
-
-<img src="https://th.bing.com/th/id/R.0a739a1c445053259b7e99234fbc0c69?rik=RCkCRrcpn1bCRA&riu=http%3a%2f%2fwww.quotationof.com%2fimages%2ftim-berners-lees-quotes-5.jpg&ehk=56I4PcRVcBqS48PXGsDrqSu5GhWH82b%2bbQaYy4oRqbc%3d&risl=&pid=ImgRaw&r=0" width="50">
+<img src="https://th.bing.com/th/id/R.0a739a1c445053259b7e99234fbc0c69?rik=RCkCRrcpn1bCRA&riu=http%3a%2f%2fwww.quotationof.com%2fimages%2ftim-berners-lees-quotes-5.jpg&ehk=56I4PcRVcBqS48PXGsDrqSu5GhWH82b%2bbQaYy4oRqbc%3d&risl=&pid=ImgRaw&r=0" width="200">
 <hr>
