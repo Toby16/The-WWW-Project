@@ -9,7 +9,7 @@
 
 <img src="https://github.com/Toby16/The-WWW-Project/blob/main/assets/original_webpage.png/" alt="The WWW Project webpage">
 
-## Features
+## Features📜
 <p>This clone of the first HTML website is an accurate reproduction of the original site, with the same structure, content, and layout.</p>
 
 * <strong>Simple HTML layout:</strong> The website is built entirely with HTML code, just like the original website. There are no fancy graphics or animations, just simple text and links
@@ -18,17 +18,17 @@
 * <strong>Accessibility:</strong> Because the website is built entirely with HTML, it is accessible to anyone with a web browser, regardless of their device or platform.
 <hr>
 
-## How To Use
+## How To Use📚
 * To use this website, simply navigate to the homepage using your web browser.
 * From there, you can click on any of the links to explore the different pages of the site.
 * You can also view the source code of the website to see how it was built.
 <hr>
 
-## Tools and Accessibility
+## Tools and Accessibility🔧
 * <img src="https://github.com/Toby16/The-WWW-Project/blob/main/assets/th.jpeg/" width="20"> Vim text Editor.
 * I implemented the HTML5 <a href="https://www.w3.org/WAI/standards-guidelines/aria/">WAI-ARIA</a> (Web Accessibility Initiative - the Accessible Rich Internet Applications Suite) to make the Web content and its applications more accessible to people with disabilities.
 
-## Conclusion
+## Conclusion📝
 <p>The first HTML website is a piece of internet history that has stood the test of time.</p>
 <p>By cloning this website, i am preserving a piece of our collective cultural heritage and making it accessible to anyone who is interested in learning about the origins of the internet.</p>
 <p>I hope that this website will inspire others to explore the history of the internet and to appreciate the amazing technological advances that have been made over the past few decades.</p>
