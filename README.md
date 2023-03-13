@@ -11,6 +11,7 @@
 
 ## Features
 <p>This clone of the first HTML website is an accurate reproduction of the original site, with the same structure, content, and layout.</p>
+
 * <strong>Simple HTML layout:</strong> The website is built entirely with HTML code, just like the original website. There are no fancy graphics or animations, just simple text and links
 * <strong>Historical significance:</strong> This website is a piece of internet history, and serves as a reminder of how far we have come since the early days of the World Wide Web.
 * <strong>Educational value:</strong> This website is a great resource for anyone who is interested in learning about the history of the internet and how it has evolved over the years.
