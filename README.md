@@ -18,6 +18,11 @@
 * <strong>Accessibility:</strong> Because the website is built entirely with HTML, it is accessible to anyone with a web browser, regardless of their device or platform.
 
 ## How To Use
-<p>To use this website, simply navigate to the homepage using your web browser.</p>
-<p>From there, you can click on any of the links to explore the different pages of the site.</p>
-<p>You can also view the source code of the website to see how it was built.</p>
+```To use this website, simply navigate to the homepage using your web browser.```
+```From there, you can click on any of the links to explore the different pages of the site.```
+```You can also view the source code of the website to see how it was built.```
+
+## Conclusion
+<p>The first HTML website is a piece of internet history that has stood the test of time.</p>
+<p>By cloning this website, we are preserving a piece of our collective cultural heritage and making it accessible to anyone who is interested in learning about the origins of the internet.</p>
+<p>We hope that this website will inspire others to explore the history of the internet and to appreciate the amazing technological advances that have been made over the past few decades.</p>
