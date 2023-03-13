@@ -19,9 +19,9 @@
 <hr>
 
 ## How To Use
-```To use this website, simply navigate to the homepage using your web browser.```
-```From there, you can click on any of the links to explore the different pages of the site.```
-```You can also view the source code of the website to see how it was built.```
+* ```To use this website, simply navigate to the homepage using your web browser.```
+* ```From there, you can click on any of the links to explore the different pages of the site.```
+* ```You can also view the source code of the website to see how it was built.```
 <hr>
 
 ## Conclusion
