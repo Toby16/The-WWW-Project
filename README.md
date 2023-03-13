@@ -1,4 +1,4 @@
-# The WWW (World Wide Web) Project
+# The WWW (World Wide Web) Project🌐
 
 <p>This is a clone of the first website ever created by Tim Berners-Lee, which was published in 1991.</p>
 <p>This website was the beginning of the World Wide Web, which has revolutionized the way we communicate and access information today.</p>
