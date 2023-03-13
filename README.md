@@ -26,7 +26,7 @@
 
 ## Tools and Accessibility
 * <img src="https://github.com/Toby16/The-WWW-Project/blob/main/assets/th.jpeg/" width="20"> Vim text Editor.
-* I implemented the HTML5 WAI-ARIA (Web Accessibility Initiative - the Accessible Rich Internet Applications Suite) to make the Web content and its applications more accessible to people with disabilities.
+* I implemented the HTML5 <a href="https://www.w3.org/WAI/standards-guidelines/aria/">WAI-ARIA</a> (Web Accessibility Initiative - the Accessible Rich Internet Applications Suite) to make the Web content and its applications more accessible to people with disabilities.
 
 ## Conclusion
 <p>The first HTML website is a piece of internet history that has stood the test of time.</p>
