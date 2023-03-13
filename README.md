@@ -25,7 +25,7 @@
 <hr>
 
 ## Tools
-* <img src="https://github.com/Toby16/The-WWW-Project/blob/main/assets/th.jpeg/" width="20">Vim text Editor.
+* <img src="https://github.com/Toby16/The-WWW-Project/blob/main/assets/th.jpeg/" width="20"> Vim text Editor.
 
 ## Conclusion
 <p>The first HTML website is a piece of internet history that has stood the test of time.</p>
