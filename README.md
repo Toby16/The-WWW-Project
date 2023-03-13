@@ -18,8 +18,6 @@
 * <strong>Accessibility:</strong> Because the website is built entirely with HTML, it is accessible to anyone with a web browser, regardless of their device or platform.
 
 ## How To Use
-```
-To use this website, simply navigate to the homepage using your web browser.
-From there, you can click on any of the links to explore the different pages of the site.
-You can also view the source code of the website to see how it was built.
-```
+<p>To use this website, simply navigate to the homepage using your web browser.</p>
+<p>From there, you can click on any of the links to explore the different pages of the site.</p>
+<p>You can also view the source code of the website to see how it was built.</p>
