@@ -16,11 +16,13 @@
 * <strong>Historical significance:</strong> This website is a piece of internet history, and serves as a reminder of how far we have come since the early days of the World Wide Web.
 * <strong>Educational value:</strong> This website is a great resource for anyone who is interested in learning about the history of the internet and how it has evolved over the years.
 * <strong>Accessibility:</strong> Because the website is built entirely with HTML, it is accessible to anyone with a web browser, regardless of their device or platform.
+<hr>
 
 ## How To Use
 ```To use this website, simply navigate to the homepage using your web browser.```
 ```From there, you can click on any of the links to explore the different pages of the site.```
 ```You can also view the source code of the website to see how it was built.```
+<hr>
 
 ## Conclusion
 <p>The first HTML website is a piece of internet history that has stood the test of time.</p>
