@@ -1,2 +1,1 @@
-# The-WWW-Project-clone-
-The first HTML website
+# The WWW (World Wide Web) Project
