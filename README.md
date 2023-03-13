@@ -24,6 +24,9 @@
 * You can also view the source code of the website to see how it was built.
 <hr>
 
+## Tools
+* <img src="https://github.com/Toby16/The-WWW-Project/blob/main/assets/th.jpeg/" width="20">Vim text Editor.
+
 ## Conclusion
 <p>The first HTML website is a piece of internet history that has stood the test of time.</p>
 <p>By cloning this website, i am preserving a piece of our collective cultural heritage and making it accessible to anyone who is interested in learning about the origins of the internet.</p>
