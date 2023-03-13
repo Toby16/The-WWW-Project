@@ -1,6 +1,6 @@
 # The WWW (World Wide Web) Project🌐
 
-<p>This is a clone of <a href="http://info.cern.ch/hypertext/WWW/TheProject.html">the first website ever created by Tim Berners-Lee</a>, which was published in 1991.</p>
+<p>This is a clone of <a href="http://info.cern.ch/hypertext/WWW/TheProject.html">the first website ever</a> created by <a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners-Lee</a>, which was published in 1991.</p>
 <p>This website was the beginning of the World Wide Web, which has revolutionized the way we communicate and access information today.</p>
 <p>The original website was very simple, consisting of only a few pages of text with links to other pages.</p>
 <p>The purpose of the website was to provide information about the World Wide Web project and how to access it.</p>
