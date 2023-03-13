@@ -1,4 +1,4 @@
-# The WWW (World Wide Web) Project🌐
+# The WWW (World Wide Web) Project 🌐
 
 <p>This is a clone of the <a href="http://info.cern.ch/hypertext/WWW/TheProject.html">first website ever</a> created by <a href="https://en.wikipedia.org/wiki/Tim_Berners-Lee">Tim Berners-Lee</a>, which was published in 1991.</p>
 <p>This website was the beginning of the World Wide Web, which has revolutionized the way we communicate and access information today.</p>
@@ -24,8 +24,9 @@
 * You can also view the source code of the website to see how it was built.
 <hr>
 
-## Tools
-* <img src="https://github.com/Toby16/The-WWW-Project/blob/main/assets/th.jpeg/" width="20">Vim text Editor.
+## Tools and Accessibility
+* <img src="https://github.com/Toby16/The-WWW-Project/blob/main/assets/th.jpeg/" width="20"> Vim text Editor.
+* I implemented the HTML5 <a href="https://www.w3.org/WAI/standards-guidelines/aria/">WAI-ARIA</a> (Web Accessibility Initiative - the Accessible Rich Internet Applications Suite) to make the Web content and its applications more accessible to people with disabilities.
 
 ## Conclusion
 <p>The first HTML website is a piece of internet history that has stood the test of time.</p>
